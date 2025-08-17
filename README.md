@@ -28,4 +28,4 @@ HDI.csv is the file containing the raw HDI data
 
 HDI Cleaned.xlsx is the file containg the clean HDI data
 
-Covid-19 Data Cleaned.xlsx is the clean, merged data sets of Covid Cleaned.xlsx and HDI Cleaned.xlsx
+Covid19 Data Cleaned.xlsx is the clean, merged data sets of Covid Cleaned.xlsx and HDI Cleaned.xlsx
