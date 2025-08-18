@@ -29,3 +29,7 @@ HDI.csv is the file containing the raw HDI data
 HDI Cleaned.xlsx is the file containg the clean HDI data
 
 Covid19 Data Cleaned.xlsx is the clean, merged data sets of Covid Cleaned.xlsx and HDI Cleaned.xlsx
+
+Project SUmmary.docx is word document containing a summary of the project and its findings
+
+Covid-19 Presentation.pptx is a powerpoint presentation pertianing to the project
